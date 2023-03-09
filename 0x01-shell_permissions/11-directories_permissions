@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+rwx g+rx o+r ../alx-system_engineering-deveops/
+chmod 755  ../alx-system_engineering-deveops/
